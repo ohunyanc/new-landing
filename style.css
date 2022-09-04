@@ -215,5 +215,7 @@
             color: #164056;
             margin: 10px 0 50px;
             display: block;
+            align-items: center;
+            justify-content: center;
         }
     }
