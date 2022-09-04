@@ -194,6 +194,7 @@
             margin-left: 15vw;
             text-align: center;
         }
+        input:focus,
         form input {
             border: 0;
             outline: none;
